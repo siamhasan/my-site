@@ -1,0 +1,77 @@
+p{
+    font-size: x-large;
+    font-weight: 40px;
+    padding: 4px;
+    
+}
+h1{
+    color: chartreuse;
+    font-size: 100px;
+}
+.helf{
+    padding: 4px;
+    width: 400px;
+}
+.image{
+    width: 400px;
+    height: 400px;
+
+}
+.helf{
+    float: left;
+    margin: 10px;
+    padding: 5px;
+}
+.topbanner{
+    background-image: url("picture/footer-bg.png");
+    background: no-repeat;
+}
+section{
+    height: 500px;
+
+}
+.link{
+    text-decoration: none;
+    color:chartreuse;
+    font-size: 30px;
+    background-color: brown;
+    border-radius: 5px;
+
+}
+.helf-weid img{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    float: left;
+}
+.dj{
+padding-top: 100px;
+float:right;
+}
+.dj p{
+    font-weight: 40px;
+    height: 116px;
+    padding: opx;
+    font-size: xx-large;
+}
+.dj h1{
+    font-size: 100px;
+}
+.dol img{
+    width: 427px;
+    height: 418px;
+    padding: 36px;
+    float: left;
+    border: 2px;
+}
+.dol h2{
+    
+    padding: 17px;
+    text-align: center;
+    font-size: 88px;
+    color: red;
+    
+}
+.lol{
+    padding: 100px;
+}
